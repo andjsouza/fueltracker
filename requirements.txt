@@ -1,0 +1,13 @@
+FastAPI
+uvicorn
+psycopg2-binary
+pydantic
+sqlalchemy
+python-dotenv
+passlib
+bcrypt
+pytest
+httpx
+alembic
+python-jose
+pydantic-settings
